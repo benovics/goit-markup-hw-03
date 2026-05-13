@@ -12,6 +12,7 @@
   text-transform: uppercase;
   color: #4d5ae5;
   text-decoration: none;
+  margin-bottom: 16px;
 }
 
 .footer .logo-accent {
@@ -23,4 +24,6 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
+  
 }
