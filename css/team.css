@@ -26,6 +26,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
+  margin-bottom: 8px;
 }
 
 
@@ -42,7 +43,7 @@
   gap: 24px;
 }
 
-.team-list li {
+.team-list {
   width: calc((100% - 72px) / 4);
 }
 
